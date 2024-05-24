@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Thushara Lakmal</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+
+| ![ThusharaSL github stats](https://github-readme-stats.vercel.app/api?username=ThusharaSL&show_icons=true&theme=tokyonight) | ![ThusharaSL GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThusharaSL&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThusharaSL&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ThusharaSL&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thusharasl&label=Profile%20views&color=0e75b6&style=flat" alt="thusharasl" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thusharasl" alt="thusharasl" /></a> </p>
