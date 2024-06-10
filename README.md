@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=40&center=true&vCenter=true&height=75&width=600&lines=Heyyy!+I'm+Thushara+Lakmal;*LAKA*+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-<h1 align="center">Hi 👋, I'm Thushara Lakmal</h1>
+<h1 align="center">Hi 👋,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Thushara Lakmal</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 
