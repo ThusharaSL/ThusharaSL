@@ -9,7 +9,7 @@
 <h5 align="left">A passionate frontend developer from Sri Lanka</h5>
 
 
-| <img align="right" height="270px" alt="GIF" src="https://github.com/ThusharaSL/ThusharaSL/blob/main/c3bf9834bdc2630f83bbdbf61042d4a63d5d1f62r1-540-304_hq.gif" />|![ThusharaSL GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThusharaSL&theme=tokyonight) |
+| <img align="right" height="270px" alt="GIF" src="https://github.com/ThusharaSL/ThusharaSL/blob/main/api-c99e353f761d318322c853c03ebcf21b.gif" />|![ThusharaSL GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThusharaSL&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThusharaSL&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ThusharaSL&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
