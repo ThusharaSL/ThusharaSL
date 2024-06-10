@@ -1,12 +1,15 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=40&center=true&vCenter=true&height=75&width=600&lines=Heyyy!+I'm+Thushara+Lakmal;*LAKA*+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
-</div>
 
-<h1 align="center">Hi 👋,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Thushara Lakmal</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h1>Hi ,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> I'm Thushara Lakmal</h>
+<div float="right">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=40&center=true&vCenter=true&height=75&width=600&lines=Heyyy!+I'm+Thushara+Lakmal;*LAKA*+is+me!!!;Welcome+to+my+profile!" alt="Title"></img> 
+  <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+  
+| ![ThusharaSL github stats](https://github-readme-stats.vercel.app/api?username=ThusharaSL&show_icons=true&theme=tokyonight&float=top)|
+
+<h3 align="left">A passionate frontend developer from Sri Lanka</h3>
 
 
-| ![ThusharaSL github stats](https://github-readme-stats.vercel.app/api?username=ThusharaSL&show_icons=true&theme=tokyonight) | ![ThusharaSL GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThusharaSL&theme=tokyonight) |
+| ![ThusharaSL github stats](https://github-readme-stats.vercel.app/api?username=ThusharaSL&show_icons=true&theme=tokyonight&float=top)|![ThusharaSL GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThusharaSL&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThusharaSL&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ThusharaSL&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
