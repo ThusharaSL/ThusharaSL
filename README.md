@@ -6,7 +6,7 @@
   
 | ![ThusharaSL github stats](https://github-readme-stats.vercel.app/api?username=ThusharaSL&show_icons=true&theme=tokyonight&float=top)|
 
-<h4 align="left">A passionate frontend developer from Sri Lanka</h4>
+<h5 align="left">A passionate frontend developer from Sri Lanka</h5>
 
 
 | <img align="right" height="270px" alt="GIF" src="https://github.com/ThusharaSL/ThusharaSL/blob/main/c3bf9834bdc2630f83bbdbf61042d4a63d5d1f62r1-540-304_hq.gif" />|![ThusharaSL GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThusharaSL&theme=tokyonight) |
